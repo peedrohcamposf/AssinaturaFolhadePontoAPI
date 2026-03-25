@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+pyodbc
+PyPDF2
+reportlab
